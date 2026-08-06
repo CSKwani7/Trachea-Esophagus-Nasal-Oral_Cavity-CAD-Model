@@ -24,3 +24,27 @@ The esophagus and the digestive tract will also be included to test tubes going 
  - Vocal cords (simplified)
  - Trachea
  - Esophagus
+
+## _Project Applications_
+
+ -  3D Printing for research projects 
+ -  Further CAD design for structures such as the lung or stomach
+ -  Educational purposes for visualization of anatomical structures
+
+## _Current Progress_
+
+<img width="203" height="397" alt="image" src="https://github.com/user-attachments/assets/8ad53517-33e7-40d0-809d-20917967ffb7" />
+<img width="242" height="222" alt="image" src="https://github.com/user-attachments/assets/ee8352bd-8875-4a12-9e6a-ae6f51191367" />
+
+
+
+## _Upcoming Plans_
+
+- Finishing the Nasal Cavity and connecting it to the Pharynx
+- Implementing more Hard Surface Modelling into current structures
+
+## _Design Credits_
+
+@ Kwani18 - Kaahan Wani 
+
+@ CSKwani7 - Krish Wani
