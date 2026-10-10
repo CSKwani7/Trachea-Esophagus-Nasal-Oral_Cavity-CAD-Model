@@ -43,7 +43,7 @@ Digestive Tract
 
 - [x] Trachea
 - [x] Esophagus
-- [x] Pharynx
+- [] Pharynx
 - [x] Oral cavity
 - [ ] Nasal cavity
 - [ ] Final assembly
