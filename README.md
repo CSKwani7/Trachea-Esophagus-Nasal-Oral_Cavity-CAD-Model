@@ -43,7 +43,7 @@ Digestive Tract
 
 - [x] Trachea
 - [x] Esophagus
-- [X] Pharynx **Still needs more work
+- [X] Pharynx **Still needs to be blended to the esophagus and Trachea
 - [x] Oral cavity
 - [X] Nasal cavity 
 - [ ] Final assembly
