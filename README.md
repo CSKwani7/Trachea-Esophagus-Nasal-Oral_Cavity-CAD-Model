@@ -45,7 +45,8 @@ Digestive Tract
 - [x] Esophagus
 - [X] Pharynx **Still needs to be blended to the esophagus and Trachea
 - [x] Oral cavity
-- [X] Nasal cavity 
+- [X] Nasal cavity
+- [ ] Epiglottis
 - [ ] Final assembly
 - [ ] 3D print optimization
 
