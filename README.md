@@ -43,9 +43,9 @@ Digestive Tract
 
 - [x] Trachea
 - [x] Esophagus
-- [ ] Pharynx
+- [X] Pharynx **Still needs more work
 - [x] Oral cavity
-- [X] Nasal cavity **Still needs more work
+- [X] Nasal cavity 
 - [ ] Final assembly
 - [ ] 3D print optimization
 
