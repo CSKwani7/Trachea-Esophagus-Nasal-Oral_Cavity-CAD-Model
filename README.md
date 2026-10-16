@@ -51,8 +51,10 @@ Digestive Tract
 - [ ] Final assembly
 - [ ] 3D print optimization
 
-<img width="203" height="397" alt="image" src="https://github.com/user-attachments/assets/8ad53517-33e7-40d0-809d-20917967ffb7" />
-<img width="242" height="222" alt="image" src="https://github.com/user-attachments/assets/ee8352bd-8875-4a12-9e6a-ae6f51191367" />
+<img width="852" height="1198" alt="image" src="https://github.com/user-attachments/assets/b4bb288d-0b73-4629-ade3-152b8835866d" />
+<img width="679" height="1225" alt="image" src="https://github.com/user-attachments/assets/c836d554-e531-4846-b08e-0f8fcd0c3fb3" />
+<img width="801" height="1120" alt="image" src="https://github.com/user-attachments/assets/9a1526ef-69b3-4f68-a9ad-f55ea52818a6" />
+<img width="702" height="918" alt="image" src="https://github.com/user-attachments/assets/ef7d127b-d557-437a-9f29-777962ab8af3" />
 
 ## _Software_
 
