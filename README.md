@@ -8,8 +8,7 @@ The main parts of the upper airway that will be included are the nose and nasal 
 The esophagus and the digestive tract will also be included to test tubes going down the trachea rather than the esophagus. 
 
 ## _Key Anatomical Structures_
-<img width="203" height="397" alt="image" src="https://github.com/user-attachments/assets/8ad53517-33e7-40d0-809d-20917967ffb7" />
-<img width="242" height="222" alt="image" src="https://github.com/user-attachments/assets/ee8352bd-8875-4a12-9e6a-ae6f51191367" />
+
 Upper Airway
  - External nose
  - Nasal cavity
