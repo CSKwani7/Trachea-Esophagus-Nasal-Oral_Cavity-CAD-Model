@@ -46,7 +46,7 @@ Digestive Tract
 - [X] Pharynx 
 - [x] Oral cavity
 - [X] Nasal cavity
-- [ ] Epiglottis
+- [X] Epiglottis
 - [ ] Skin
 - [ ] Final assembly
 - [ ] 3D print optimization
