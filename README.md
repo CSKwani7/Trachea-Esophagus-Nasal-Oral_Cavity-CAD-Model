@@ -77,13 +77,13 @@ Digestive Tract
 
 ## _Design Credits_
 
-@ Kwani18 - Kaahan Wani 
+@ CSKwani7 - Krish Wani
 
 - Anatomical research
 - CAD modeling
 - GitHub documentation
 
-@ CSKwani7 - Krish Wani
+@ Kwani18 - Kaahan Wani 
 
 - Anatomical research
 - CAD modeling
