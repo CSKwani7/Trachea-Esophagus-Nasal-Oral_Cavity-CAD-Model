@@ -78,9 +78,13 @@ Digestive Tract
 - Finishing the Nasal Cavity and connecting it to the Pharynx
 - Implementing more Hard Surface Modelling into current structures
 
-## References
+## _References_
 
 - NIH 3D Print Exchange
+
+## _More Information_
+
+For more information, please read the Documentation and Research Document. This will explain the tools we used for Blender, the anatomy, and the process of our model.
 
 ## _Design Credits_
 
