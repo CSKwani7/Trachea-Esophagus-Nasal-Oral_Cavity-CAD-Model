@@ -2,8 +2,8 @@
 
 ## _Overview_
 
-This project's primary purpose is to be an anatomically accurate model of the upper airway that can be 3D printed for research projects.
-The model is currently in the process of being developed on Blender by creating our own models, as well as downloading models from reliable websites such as NIH.
+This project aims to create an anatomically accurate upper airway model that can be 3D printed for research projects.
+The model is currently in the process of being developed in Blender by creating our own models, as well as downloading models from reliable websites such as NIH.
 The main parts of the upper airway that will be included are the nose and nasal cavity, mouth and oral cavity, pharynx, and trachea. 
 We will also include the esophagus and digestive tract to test tubes going down the trachea rather than the esophagus. 
 
