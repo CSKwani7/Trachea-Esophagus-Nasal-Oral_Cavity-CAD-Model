@@ -46,10 +46,14 @@ Digestive Tract
 - [X] Pharynx 
 - [x] Oral cavity
 - [X] Nasal cavity
+- [X] Nose/Nasal Septum
 - [X] Epiglottis
+- [X] Tongue
+- [X] Teeth
 
 ### _Optional Additions_
 - [ ] Meatuses and Turbinates
+- [ ] Vocal Cords
 - [ ] Skin
 - [ ] Final assembly
 - [ ] 3D print optimization
@@ -75,8 +79,8 @@ Digestive Tract
 
 ## _Upcoming Plans_
 
-- Finishing the Nasal Cavity and connecting it to the Pharynx
-- Implementing more Hard Surface Modelling into current structures
+- Use Sculpting to Modify Parts Slightly
+- Start Creating the Skin
 
 ## _References_
 
